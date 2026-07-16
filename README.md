@@ -5,9 +5,10 @@ This web application demonstrates a real-time recommendation and personalization
 
 ---
 
-<img width="1874" height="896" alt="Screenshot 2025-11-22 154209" src="https://github.com/user-attachments/assets/abad6b0f-0986-4312-bcda-081d3614ac6f" />
+<img width="1531" height="858" alt="Screenshot 2026-07-16 210822" src="https://github.com/user-attachments/assets/93c2a73c-ee0c-4ede-a321-98cda54352a7" />
+<img width="1508" height="704" alt="Screenshot 2026-07-16 210830" src="https://github.com/user-attachments/assets/e63f5d35-5519-47f2-b38c-3f9c8a0220f8" />
 
-<img width="977" height="848" alt="Screenshot 2025-11-22 154249" src="https://github.com/user-attachments/assets/ea32272e-8372-4786-867e-4c678799fe10" />
+
 
 ---
 
