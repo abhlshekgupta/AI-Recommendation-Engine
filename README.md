@@ -5,8 +5,8 @@ This web application demonstrates a real-time recommendation and personalization
 
 ---
 
-<img width="1531" height="858" alt="Screenshot 2026-07-16 210822" src="https://github.com/user-attachments/assets/93c2a73c-ee0c-4ede-a321-98cda54352a7" />
-<img width="1508" height="704" alt="Screenshot 2026-07-16 210830" src="https://github.com/user-attachments/assets/e63f5d35-5519-47f2-b38c-3f9c8a0220f8" />
+<img width="1531" height="858" alt="Screenshot 2026-07-16 210822" src="assets/1.png" />
+<img width="1508" height="704" alt="Screenshot 2026-07-16 210830" src="assets/2.png" />
 
 
 
